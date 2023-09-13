@@ -25,7 +25,7 @@ Fonction du jeu permettant d'obtenir des blocs qui sont en suite stocker dans le
 
 ### Vendre
 
-Permet de vider le sac en vendant les blocs stocker et permet de récupérer de l'argent utile pour acheter des améliorations ou des familliers aidant a avancé dans le jeu
+Permet de vider le sac en vendant les blocs stockés et permet de récupérer de l'argent utile pour acheter des améliorations ou des familliers aidant à avancé dans le jeu
 
 ### Boite
 
@@ -43,15 +43,15 @@ Le menu d'amélioration permet d'acheter des améliorations pour les outils du j
 
 ### Les familliers
 
-Il existe 5 rareté de familliers allant de Commun a Unique avec 10 familliers différents, la rareté du famillier fait dépendre son utilité
+Il existe 5 raretés de familliers allant de Commun a Unique avec 10 familliers différents, la rareté du famillier fait dépendre son utilité
 
 ![Pets_menu](assets_readme/Rarity_menu.png)
 
 ### Le reste
 
 - Money permet de voir l'argent détenu par le joueur
-- Info prix permet de voir le prix des différentes améilorations ainsi que le prix des boites
-- Info lvl permet de voir le niveau actuelle des outils
+- Info prix permet de voir le prix des différentes améliorations ainsi que le prix des boites
+- Info lvl permet de voir le niveau actuel des outils
 
 ## Installation
 
@@ -63,4 +63,4 @@ Toute modification du programme dans le but d'améliorer le fonctionnement du je
 
 ## Remerciement spéciale
 
-Remerciement a Tristan_G7 et Bomb_hermann666 qui m'ont aidé a trouvé le nom du jeu et qui m'ont servi de testeur
+Remerciement a Tristan_G7 et Bomb_hermann666 qui m'ont aidé a trouver le nom du jeu et qui m'ont servi de testeurs
